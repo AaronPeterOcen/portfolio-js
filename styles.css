@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rectangle-1 {
+  width: 1600px;
+  height: 447px;
+  background-color: lightblue;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  width: 1455px;
+  height: 127px;
+  display: flex;
+  background: #828282;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header .name {
+  width: 389px;
+  height: 97px;
+}
